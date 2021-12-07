@@ -1,0 +1,9 @@
+{
+	"name": "sicasica",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72d0fc5b-6fad-49a7-ba7e-2b09b1c64c7a",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
